@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">country_flags_recycleview</string>
+    <string name="add_сountry_en">Add country</string>
+    <string name="add_сountry_ru">Добавить страну</string>
+    <string name="link_flag_Austria">https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png</string>
+    <string name="link_flag_Poland">https://blazon.ru/wp-content/uploads/2019/01/148.jpg</string>
+    <string name="link_flag_Italy">https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png</string>
+    <string name="link_flag_Columbia">https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_Gran_Colombia.svg/2560px-Flag_of_the_Gran_Colombia.svg.png</string>
+    <string name="link_flag_Madagascar">https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png</string>
+    <string name="link_flag_Thailand">https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/2560px-Flag_of_Thailand.svg.png</string>
+    <string name="link_flag_Denmark">https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1920px-Flag_of_Denmark.svg.png</string>
+    <string name="link_flag_Switzerland">https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/1200px-Flag_of_Switzerland_%28Pantone%29.svg.png</string>
+</resources>
